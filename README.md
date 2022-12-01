@@ -1,5 +1,5 @@
 
-   <img src="https://github.com/dooublemint/dooublemint/blob/main/img/15467072.png" width="50" /> <img src="https://github.com/dooublemint/dooublemint/blob/main/img/Xcode_icon.png" width="50" /> <img src="https://github.com/dooublemint/dooublemint/blob/main/img/ios.png" width="50" /><img src="https://github.com/dooublemint/dooublemint/blob/main/img/github.png" width="50" /><img src="https://github.com/dooublemint/dooublemint/blob/main/img/swift.png" width="45" />
+<!--    <img src="https://github.com/dooublemint/dooublemint/blob/main/img/15467072.png" width="50" /> <img src="https://github.com/dooublemint/dooublemint/blob/main/img/Xcode_icon.png" width="50" /> <img src="https://github.com/dooublemint/dooublemint/blob/main/img/ios.png" width="50" /><img src="https://github.com/dooublemint/dooublemint/blob/main/img/github.png" width="50" /><img src="https://github.com/dooublemint/dooublemint/blob/main/img/swift.png" width="45" />
 
     - 👋 Hi, I’m @dooublemint
     - 👀 I’m interested in ...
@@ -7,7 +7,7 @@
     - 💞️ I’m looking to collaborate on ...
     - 📫 How to reach me ...
 
-   ![Image alt](https://github.com/dooublemint/dooublemint/blob/main/gif/code.gif)
+   ![Image alt](https://github.com/dooublemint/dooublemint/blob/main/gif/code.gif) -->
 
 <!---
 dooublemint/dooublemint is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
