@@ -1,5 +1,5 @@
 
-   <img src="https://github.com/dooublemint/dooublemint/blob/main/img/15467072.png" width="150" /> <img src="https://github.com/dooublemint/dooublemint/blob/main/img/Xcode_icon.png" width="150" /> <img src="https://github.com/dooublemint/dooublemint/blob/main/img/ios.png" width="150" /><img src="https://github.com/dooublemint/dooublemint/blob/main/img/github.png" width="150" /><img src="https://github.com/dooublemint/dooublemint/blob/main/img/swift.png" width="145" />
+   <img src="https://github.com/dooublemint/dooublemint/blob/main/img/15467072.png" width="50" /> <img src="https://github.com/dooublemint/dooublemint/blob/main/img/Xcode_icon.png" width="50" /> <img src="https://github.com/dooublemint/dooublemint/blob/main/img/ios.png" width="50" /><img src="https://github.com/dooublemint/dooublemint/blob/main/img/github.png" width="50" /><img src="https://github.com/dooublemint/dooublemint/blob/main/img/swift.png" width="45" />
 
     - 👋 Hi, I’m @dooublemint
     - 👀 I’m interested in ...
