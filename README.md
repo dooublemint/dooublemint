@@ -1,7 +1,8 @@
 
+<!---
 <img src="https://github.com/dooublemint/dooublemint/blob/main/gif/code.gif" width="200" />
 
-<!---
+
 ![Image alt](https://github.com/dooublemint/dooublemint/blob/main/gif/code.gif)
 <img src="https://github.com/dooublemint/dooublemint/blob/main/img/15467072.png" width="20" /> <img src="https://github.com/dooublemint/dooublemint/blob/main/img/Xcode_icon.png" width="20" /> <img src="https://github.com/dooublemint/dooublemint/blob/main/img/ios.png" width="20" /><img src="https://github.com/dooublemint/dooublemint/blob/main/img/github.png" width="20" /><img src="https://github.com/dooublemint/dooublemint/blob/main/img/swift.png" width="20" />
 
